@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("Operational_Amplifier" "Differential_Stage" "schematic" "spectre")
+descriptionText = "None"
